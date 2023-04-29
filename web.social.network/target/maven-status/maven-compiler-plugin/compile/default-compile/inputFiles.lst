@@ -1,0 +1,15 @@
+/home/aadi/Workspaces/SpringBootSocialNetwork-master/web.social.network/src/main/java/info/cheremisin/social/network/controllers/IndexController.java
+/home/aadi/Workspaces/SpringBootSocialNetwork-master/web.social.network/src/main/java/info/cheremisin/social/network/controllers/AdminController.java
+/home/aadi/Workspaces/SpringBootSocialNetwork-master/web.social.network/src/main/java/info/cheremisin/social/network/utils/ServerUtils.java
+/home/aadi/Workspaces/SpringBootSocialNetwork-master/web.social.network/src/main/java/info/cheremisin/social/network/SocialNetworkApplication.java
+/home/aadi/Workspaces/SpringBootSocialNetwork-master/web.social.network/src/main/java/info/cheremisin/social/network/controllers/ProfileController.java
+/home/aadi/Workspaces/SpringBootSocialNetwork-master/web.social.network/src/main/java/info/cheremisin/social/network/config/ApplicationSecurityConfig.java
+/home/aadi/Workspaces/SpringBootSocialNetwork-master/web.social.network/src/main/java/info/cheremisin/social/network/controllers/MessagesController.java
+/home/aadi/Workspaces/SpringBootSocialNetwork-master/web.social.network/src/main/java/info/cheremisin/social/network/config/BcryptPasswordEncoderConfig.java
+/home/aadi/Workspaces/SpringBootSocialNetwork-master/web.social.network/src/main/java/info/cheremisin/social/network/exceptionHandling/ResponseExceptionHandler.java
+/home/aadi/Workspaces/SpringBootSocialNetwork-master/web.social.network/src/main/java/info/cheremisin/social/network/controllers/FriendsController.java
+/home/aadi/Workspaces/SpringBootSocialNetwork-master/web.social.network/src/main/java/info/cheremisin/social/network/initializer/ImageInitializer.java
+/home/aadi/Workspaces/SpringBootSocialNetwork-master/web.social.network/src/main/java/info/cheremisin/social/network/config/LocalizationConfiguration.java
+/home/aadi/Workspaces/SpringBootSocialNetwork-master/web.social.network/src/main/java/info/cheremisin/social/network/config/CustomAuthenticationSuccessHandler.java
+/home/aadi/Workspaces/SpringBootSocialNetwork-master/web.social.network/src/main/java/info/cheremisin/social/network/controllers/SettingsController.java
+/home/aadi/Workspaces/SpringBootSocialNetwork-master/web.social.network/src/main/java/info/cheremisin/social/network/controllers/UsersController.java
